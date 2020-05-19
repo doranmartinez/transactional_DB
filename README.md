@@ -18,7 +18,7 @@ python3 main.py input.txt input2.txt input3.txt ...
 ## My Assumptions
 
 I assumed the input data came with little error.
-Tarnsaction blocks have some sort of 'END' or 'COMMIT' to stop it.
+Transaction blocks have some sort of 'END' or 'COMMIT' to stop it.
 I assumed the next user would utilize an input file with however many test cases written
 and the output is printed to the terminal/screen.
 
