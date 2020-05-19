@@ -1,6 +1,6 @@
 # DATABASE FOR INTEGERS
 
-This is a coding challenge submission with Guanyin Labs.
+This is a coding challenge submission.
 
 The goal of this project is to build a data structure for storing integers.
 The data is stored in memory rather than persisted to disk.
